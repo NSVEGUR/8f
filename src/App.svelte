@@ -2,6 +2,7 @@
   import LeftPane from "./lib/components/Left.svelte";
   import RightPane from "./lib/components/Right.svelte";
   import MiddlePane from "./lib/components/Middle.svelte";
+  import "normalize.css";
 </script>
 
 <main class="w-screen h-screen">
