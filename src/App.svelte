@@ -5,7 +5,7 @@
   import "normalize.css";
 </script>
 
-<main class="w-screen h-screen">
+<main class="w-screen h-screen overflow-hidden">
   <LeftPane />
   <MiddlePane />
   <RightPane />
