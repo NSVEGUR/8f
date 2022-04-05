@@ -5,7 +5,7 @@
 
 <main>
   <img src={logo} alt="Svelte Logo" />
-  <h1>Hello world!</h1>
+  <h1 class=" text-blue-600">Hello world!</h1>
 
   <Counter />
 
@@ -37,15 +37,7 @@
     width: 16rem;
   }
 
-  h1 {
-    color: #ff3e00;
-    text-transform: uppercase;
-    font-size: 4rem;
-    font-weight: 100;
-    line-height: 1.1;
-    margin: 2rem auto;
-    max-width: 14rem;
-  }
+
 
   p {
     max-width: 14rem;
