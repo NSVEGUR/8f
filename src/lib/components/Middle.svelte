@@ -33,15 +33,15 @@
       autoComplete="off"
     />
   </div>
-  <div class="bg-blue-500 rounded-xl p-4 flex flex-col gap-4 items-start">
-    <h1 class="text-white font-bold text-3xl">Welcome Vinay</h1>
-    <p class="text-white font-extralight">
+  <div class="bg-blue-500 rounded-xl p-6 flex flex-col items-start">
+    <h1 class="text-white font-bold my-3 text-4xl">Welcome Vinay</h1>
+    <p class="text-base leading-5 pb-5 text-white font-normal">
       Do commodo mollit nostrud nisi velit reprehenderit aute elit qui. Eu
       excepteur in eu qui ipsum ullamco culpa in esse reprehenderit ipsum in
       consequat exercitation. Reprehenderit qui ea non labore id quis ex.
     </p>
     <button
-      class="rounded-xl text-black bg-white p-2 font-bold shadow-md hover:shadow-2xl"
+      class="text-lg rounded-xl text-[#4062ff] px-10 py-3 bg-white p-2 font-bold shadow-md hover:shadow-2xl"
       >Plan a trip</button
     >
   </div>
@@ -127,15 +127,15 @@
             placeholder="Date end"
           />
         </div>
-        <div class="flex w-full justify-start">
+        <div class="flex w-full justify-start mt-5">
           <button
             type="reset"
-            class="text-white font-semibold bg-[#4062ff] w-1/2 mr-2 my-3 py-3 rounded-xl box-border"
+            class="text-white font-semibold bg-[#4062ff] w-1/2 mr-2  py-3 rounded-xl box-border"
             >Reset</button
           >
           <button
             type="submit"
-            class="text-white bg-[#4062ff] font-semibold w-1/2 ml-2 my-3 py-3 rounded-xl box-border"
+            class="text-white bg-[#4062ff] font-semibold w-1/2 ml-2  py-3 rounded-xl box-border"
             >Submit</button
           >
         </div>
